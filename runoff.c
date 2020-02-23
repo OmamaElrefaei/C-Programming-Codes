@@ -1,6 +1,6 @@
 //This program was HarvardX: CS50 problem, I complete the implementation of runoff.c in such a way that it simulates a runoff election.
 //Created on Saturday, January 4.
-//@author: Omama Elrefaei: vote function, tabulate function, print_winner function, find_min function, is_tie function and eliminate function.
+//@author: Omama Elrefaei for vote function, tabulate function, print_winner function, find_min function, is_tie function and eliminate function.
 
 #include <cs50.h>  //CS50 Library for C created by: Glenn Holloway <holloway@eecs.harvard.edu>, David J. Malan 
 #include <stdio.h>
