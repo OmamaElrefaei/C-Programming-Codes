@@ -1,6 +1,6 @@
 //This program was HarvardX: CS50 problem, I complete the implementation of plurality.c in such a way that the program simulates a plurality vote election.
 //Created on Friday January 3 2020.
-//@author: Omama Elrefaei: vote function and print_winner function;
+//@author: Omama Elrefaei for vote function and print_winner function;
 
 #include <cs50.h>  //CS50 Library for C created by: Glenn Holloway <holloway@eecs.harvard.edu>, David J. Malan <malan@harvard.edu>.
 #include <stdio.h>
